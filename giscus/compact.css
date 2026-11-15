@@ -1,0 +1,56 @@
+.gsc-main {
+  gap: 1rem;
+}
+
+.gsc-comments,
+.gsc-timeline {
+  gap: .75rem;
+}
+
+.gsc-reactions {
+  margin-block: 0;
+  padding-block: .25rem;
+}
+
+.gsc-header {
+  margin-bottom: 0;
+}
+
+.gsc-comment-box {
+  margin-block: 0;
+}
+
+.gsc-comment-box-textarea {
+  min-height: 4rem;
+  height: 4rem;
+  resize: vertical;
+}
+
+.gsc-comment-box-main {
+  padding-block: 0;
+}
+
+.gsc-comment-box-bottom {
+  margin-block: .375rem;
+}
+
+.gsc-comment-box-preview {
+  min-height: 4rem;
+  padding-bottom: .5rem;
+}
+
+.gsc-comment-header {
+  padding-block: .625rem .375rem;
+}
+
+.gsc-comment-content {
+  padding-block: .5rem;
+}
+
+.gsc-comment-footer {
+  padding-block: .375rem .5rem;
+}
+
+.gsc-reply-box {
+  padding-block: .5rem;
+}
